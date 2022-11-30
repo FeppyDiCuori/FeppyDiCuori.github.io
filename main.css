@@ -1,0 +1,44 @@
+@import url('https://fonts.googleapis.com/css2?family=DM+Sans&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=DM+Sans:wght@400;700&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=DM+Sans:wght@400;700&family=Ubuntu:ital,wght@0,700;1,700&display=swap');
+body {
+/* commento in css */
+background-color: ghostwhite;
+font-family: 'DM Sans', sans-serif;
+font-size: 20px;
+color: black;
+/* letter-spacing: 2px;*/
+}
+h1{
+    color: black;
+    text-align: center;
+    font-family: 'Ubuntu', sans-serif;
+
+}
+p{
+    width:60%;
+    margin: 0 auto;
+    
+}
+
+img {
+    display: block;
+    width: 600px;
+    margin: 0 auto;
+}
+a:link, a:visited{
+    color: midnightblue;
+    text-decoration: none;
+}
+a:hover, a:active{
+    color:ghostwhite;
+    background-color: black;
+
+}
+.party{
+    margin-top: 80px;
+    margin-bottom: 42px;
+}
+.party2{
+    text-align:center;
+}
